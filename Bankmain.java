@@ -9,6 +9,7 @@ class Menu
 {
 	public static void options()
 	{
+		System.out.println("\n>>>>> Welcome to MyBank - Your trusted place for Banking needs <<<<<\n");
 		System.out.println("--->  Please enter the below options to proceed further");
 		System.out.println("      1) Perform Money Transfer");
 		System.out.println("      2) Pay Bills ");
